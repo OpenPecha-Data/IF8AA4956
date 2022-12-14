@@ -1,0 +1,26 @@
+id: IF8AA4956
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:04:20.736021+00:00
+last_modified: 2022-12-14 18:04:20.736027+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-088-008
+  eft-text-version: 1.1.10 2021
+  title: Toh_514-Discourse_of_Dh%C4%81ra%E1%B9%87%C4%AB_of_Buddha%E2%80%99s_Essence-v2
+bases:
+  A39E:
+    source_metadata: null
+    order: 1
+    base_file: A39E.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
